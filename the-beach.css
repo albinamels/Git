@@ -34,7 +34,7 @@ header {
 
 .button:hover {
     background-color: #926239;
-    color: white; 
+    color: azure; 
     transition-duration: 0.5s;        
 }
 
@@ -44,7 +44,7 @@ section { padding: 10px; }
 
 .section-a, .sub-section1, .sub-section3 {
     background-color: #926239;
-    color: white;
+    color: azure;
 }
 
 .section-b {
